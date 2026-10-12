@@ -1,0 +1,254 @@
+[
+  {
+    "repo": "storytold/photocraft",
+    "group": "Creative applications",
+    "target": "Photoshop-style raster editor",
+    "watch": "Track PSD fidelity, selections, masks and editor stability",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/vectorcraft",
+    "group": "Creative applications",
+    "target": "Illustrator-style vector editor",
+    "watch": "Track SVG/AI workflows, vector drawing and typography",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/filmcraft",
+    "group": "Creative applications",
+    "target": "Premiere-style nonlinear video editor",
+    "watch": "Track timeline, codecs, effects and export reliability",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/lightcraft",
+    "group": "Creative applications",
+    "target": "Lightroom-style photo workflow",
+    "watch": "Track RAW compatibility and non-destructive editing",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/pdfcraft",
+    "group": "Creative applications",
+    "target": "Acrobat-style PDF editor",
+    "watch": "Track PDF fidelity, forms, annotations and export",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/effectcraft",
+    "group": "Creative applications",
+    "target": "After Effects-style motion graphics",
+    "watch": "Track keyframes, compositing and media interchange",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/designcraft",
+    "group": "Creative applications",
+    "target": "InDesign-style publishing",
+    "watch": "Track typography, layout, prepress and file fidelity",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/wordcraft",
+    "group": "Office, CAD and audio",
+    "target": "Microsoft Word-style word processor",
+    "watch": "Track complex DOCX round trips, pagination and printing",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/gridcraft",
+    "group": "Office, CAD and audio",
+    "target": "Microsoft Excel-style spreadsheet",
+    "watch": "Track formulas, XLSX round trips and large-sheet performance",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/deckcraft",
+    "group": "Office, CAD and audio",
+    "target": "Microsoft PowerPoint-style presentations",
+    "watch": "Track PPTX interoperability, animations and rendering",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/cadcraft",
+    "group": "Office, CAD and audio",
+    "target": "AutoCAD-style drafting application",
+    "watch": "Track DWG/DXF conversion, geometry and dimension accuracy",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/soundcraft",
+    "group": "Office, CAD and audio",
+    "target": "Avid Pro Tools-style audio workstation",
+    "watch": "Track low-latency audio, plugins, session import and DAW stability",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/artcraft",
+    "group": "Core project and infrastructure",
+    "target": "ArtCraft creative AI studio",
+    "watch": "Original umbrella project predates the October app surge",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/craft-launcher",
+    "group": "Core project and infrastructure",
+    "target": "Official desktop application launcher",
+    "watch": "Simplifies native installs and updates across the suite",
+    "priority": "High"
+  },
+  {
+    "repo": "storytold/craft-libs",
+    "group": "Core project and infrastructure",
+    "target": "Shared Rust libraries",
+    "watch": "Interesting for cross-app architecture and deduplication",
+    "priority": "Medium"
+  },
+  {
+    "repo": "storytold/craft-fonts",
+    "group": "Core project and infrastructure",
+    "target": "Shared bundled fonts",
+    "watch": "Supporting repository for portability and typography",
+    "priority": "Low"
+  },
+  {
+    "repo": "storytold/craft-repo-status-app",
+    "group": "Core project and infrastructure",
+    "target": "Release and repository status app",
+    "watch": "Potential unified status across Craft applications",
+    "priority": "Medium"
+  },
+  {
+    "repo": "KMSDax/AnimationCraft",
+    "group": "Independent creative experiments",
+    "target": "Adobe Animate/Flash-style 2D animation editor",
+    "watch": "Independent Rust timeline/symbol/tween implementation with demo and CLI",
+    "priority": "Medium"
+  },
+  {
+    "repo": "PiJellyPin/MaterialCraft",
+    "group": "Independent creative experiments",
+    "target": "MatForge procedural material editor",
+    "watch": "Independent Rust node graph and 3D material preview; very early",
+    "priority": "Medium"
+  },
+  {
+    "repo": "CryptoKey98/craft-apps-manager",
+    "group": "Community ecosystem",
+    "target": "Third-party native app manager",
+    "watch": "Actively maintained installer, updater, backups and build-from-source",
+    "priority": "Medium"
+  },
+  {
+    "repo": "emircesur/CRAFTSPACE",
+    "group": "Community ecosystem",
+    "target": "Third-party installer and updater",
+    "watch": "Independent desktop manager for the ArtCraft family",
+    "priority": "Medium"
+  },
+  {
+    "repo": "olafkfreund/nix-craftapps",
+    "group": "Community ecosystem",
+    "target": "NixOS/Home Manager packaging",
+    "watch": "Practical deployment route for Nix users",
+    "priority": "Low"
+  },
+  {
+    "repo": "CraftHubLauncher/CraftHub",
+    "group": "Community ecosystem",
+    "target": "Community desktop app hub",
+    "watch": "Alternative Craft app installation and management",
+    "priority": "Low"
+  },
+  {
+    "repo": "MegaTheLEGEND/CraftHub",
+    "group": "Community ecosystem",
+    "target": "Self-hosted Craft web launcher",
+    "watch": "Serves web builds with optional OIDC authentication",
+    "priority": "Low"
+  },
+  {
+    "repo": "kazuhiroU/Craft-App-JapaneseLanguage",
+    "group": "Community ecosystem",
+    "target": "Japanese localization toolkit",
+    "watch": "Translation dictionaries, patches and localized usage guidance",
+    "priority": "Low"
+  },
+  {
+    "repo": "chasmlol/SkyCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Minecraft gameplay inside Skyrim",
+    "watch": "Original ambitious SKSE/Fabric shared-memory crossover; not an ArtCraft app",
+    "priority": "High"
+  },
+  {
+    "repo": "VVRLD/FortressCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Team Fortress 2 and Minecraft crossover",
+    "watch": "Source-based experimental passthrough; needs independent testing",
+    "priority": "Medium"
+  },
+  {
+    "repo": "zeyvu/FalloutCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Minecraft gameplay inside Fallout 4",
+    "watch": "Fallout 4/Fabric world and combat integration",
+    "priority": "Medium"
+  },
+  {
+    "repo": "Xu060113/SekiroCraft-Passthrough",
+    "group": "Separate game-crossover wave",
+    "target": "Sekiro and Minecraft integration",
+    "watch": "Experimental D3D11/shared-memory bridge, Windows only",
+    "priority": "Medium"
+  },
+  {
+    "repo": "gta5craft/GtaCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Minecraft gameplay inside GTA V",
+    "watch": "Single-player GTA V Legacy/Fabric bridge",
+    "priority": "Medium"
+  },
+  {
+    "repo": "SocketByte/EldenCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Elden Ring-inspired Minecraft mod",
+    "watch": "Distinct gameplay mod; not equivalent to SkyCraft-style passthrough",
+    "priority": "Low"
+  },
+  {
+    "repo": "Boom64dude/MarioCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Super Mario 64 as Minecraft Steve",
+    "watch": "SkyCraft-inspired game mashup",
+    "priority": "Low"
+  },
+  {
+    "repo": "sogutemir/HalfCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Minecraft gameplay inside Half-Life",
+    "watch": "Experimental GoldSrc/Fabric bridge",
+    "priority": "Low"
+  },
+  {
+    "repo": "Lumi-nary/Project-ZombCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Project Zomboid and Minecraft integration",
+    "watch": "Early game/mod integration",
+    "priority": "Low"
+  },
+  {
+    "repo": "aeironnsarmiento/PeakCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Minecraft inside PEAK",
+    "watch": "SkyCraft port; experimental",
+    "priority": "Low"
+  },
+  {
+    "repo": "M0uidev/GalaxyCraft",
+    "group": "Separate game-crossover wave",
+    "target": "Minecraft inside Super Mario Galaxy 2",
+    "watch": "Dolphin/Syati/Fabric cross-game prototype",
+    "priority": "Low"
+  }
+]
