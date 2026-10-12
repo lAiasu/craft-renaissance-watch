@@ -195,12 +195,20 @@ def discover(catalog):
         re.IGNORECASE,
     )
     matches = []
+    tracked_names = {p["repo"].split("/")[-1].lower() for p in catalog}
+    spam = re.compile(
+        r"official free download|download:|cracked|keygen|serial key|"
+        r"artcraft photoshop download|photocraft v[0-9]+.*local zip",
+        re.IGNORECASE,
+    )
     for repo in result.get("items", []):
         name = repo["full_name"]
-        if name.lower() in known or repo.get("fork") or repo.get("archived"):
+        short_name = name.split("/")[-1].lower()
+        if (name.lower() in known or repo.get("fork") or repo.get("archived")
+                or short_name in tracked_names):
             continue
         desc = repo.get("description") or ""
-        if not pattern.search(desc):
+        if spam.search(desc) or not pattern.search(desc):
             continue
         matches.append(repo)
     matches.sort(key=lambda r: (-r["stargazers_count"], r["full_name"].lower()))
