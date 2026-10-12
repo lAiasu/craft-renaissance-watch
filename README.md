@@ -1,6 +1,6 @@
 # Craft Renaissance — GitHub Watchlist
 
-**36 curated projects · 6 categories · Updated 2026-10-12 01:01 UTC**
+**36 curated projects · 6 categories · Updated 2026-10-12 01:02 UTC**
 
 A private, categorized tracker for the sudden wave of *-Craft applications and adjacent experiments.
 This list **does not star, fork or subscribe to** any of the tracked repositories.
@@ -30,10 +30,10 @@ not proof of feature completeness or code quality.
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [photocraft](https://github.com/storytold/photocraft) | Photoshop-style raster editor | High | 47,724 | — | 2026-10-12 | Track PSD fidelity, selections, masks and editor stability |
+| [photocraft](https://github.com/storytold/photocraft) | Photoshop-style raster editor | High | 47,727 | — | 2026-10-12 | Track PSD fidelity, selections, masks and editor stability |
 | [lightcraft](https://github.com/storytold/lightcraft) | Lightroom-style photo workflow | High | 10,213 | — | 2026-10-11 | Track RAW compatibility and non-destructive editing |
 | [filmcraft](https://github.com/storytold/filmcraft) | Premiere-style nonlinear video editor | High | 10,125 | — | 2026-10-12 | Track timeline, codecs, effects and export reliability |
-| [pdfcraft](https://github.com/storytold/pdfcraft) | Acrobat-style PDF editor | High | 9,655 | — | 2026-10-12 | Track PDF fidelity, forms, annotations and export |
+| [pdfcraft](https://github.com/storytold/pdfcraft) | Acrobat-style PDF editor | High | 9,657 | — | 2026-10-12 | Track PDF fidelity, forms, annotations and export |
 | [vectorcraft](https://github.com/storytold/vectorcraft) | Illustrator-style vector editor | High | 7,104 | — | 2026-10-12 | Track SVG/AI workflows, vector drawing and typography |
 | [effectcraft](https://github.com/storytold/effectcraft) | After Effects-style motion graphics | High | 5,189 | — | 2026-10-11 | Track keyframes, compositing and media interchange |
 | [designcraft](https://github.com/storytold/designcraft) | InDesign-style publishing | High | 3,008 | — | 2026-10-12 | Track typography, layout, prepress and file fidelity |
@@ -42,9 +42,9 @@ not proof of feature completeness or code quality.
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [wordcraft](https://github.com/storytold/wordcraft) | Microsoft Word-style word processor | High | 5,961 | — | 2026-10-12 | Track complex DOCX round trips, pagination and printing |
+| [wordcraft](https://github.com/storytold/wordcraft) | Microsoft Word-style word processor | High | 5,963 | — | 2026-10-12 | Track complex DOCX round trips, pagination and printing |
 | [gridcraft](https://github.com/storytold/gridcraft) | Microsoft Excel-style spreadsheet | High | 2,934 | — | 2026-10-11 | Track formulas, XLSX round trips and large-sheet performance |
-| [cadcraft](https://github.com/storytold/cadcraft) | AutoCAD-style drafting application | High | 2,669 | — | 2026-10-12 | Track DWG/DXF conversion, geometry and dimension accuracy |
+| [cadcraft](https://github.com/storytold/cadcraft) | AutoCAD-style drafting application | High | 2,670 | — | 2026-10-12 | Track DWG/DXF conversion, geometry and dimension accuracy |
 | [deckcraft](https://github.com/storytold/deckcraft) | Microsoft PowerPoint-style presentations | High | 2,036 | — | 2026-10-11 | Track PPTX interoperability, animations and rendering |
 | [soundcraft](https://github.com/storytold/soundcraft) | Avid Pro Tools-style audio workstation | High | 1,815 | — | 2026-10-12 | Track low-latency audio, plugins, session import and DAW stability |
 
@@ -52,7 +52,7 @@ not proof of feature completeness or code quality.
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [artcraft](https://github.com/storytold/artcraft) | ArtCraft creative AI studio | High | 17,943 | — | 2026-10-11 | Original umbrella project predates the October app surge |
+| [artcraft](https://github.com/storytold/artcraft) | ArtCraft creative AI studio | High | 17,945 | — | 2026-10-11 | Original umbrella project predates the October app surge |
 | [craft-launcher](https://github.com/storytold/craft-launcher) | Official desktop application launcher | High | 1,204 | — | 2026-10-11 | Simplifies native installs and updates across the suite |
 | [craft-libs](https://github.com/storytold/craft-libs) | Shared Rust libraries | Medium | 112 | — | 2026-10-12 | Interesting for cross-app architecture and deduplication |
 | [craft-repo-status-app](https://github.com/storytold/craft-repo-status-app) | Release and repository status app | Medium | 60 | — | 2026-10-11 | Potential unified status across Craft applications |
@@ -102,4 +102,4 @@ not proof of feature completeness or code quality.
 For additional searching, see [recent original Craft-named repositories](https://github.com/search?q=craft+in%3Aname+created%3A%3E%3D2026-09-29+fork%3Afalse&type=repositories).
 A private repository README is available only when signed in to the GitHub account with access.
 
-*Last refresh: 2026-10-12T01:01:46+00:00.*
+*Last refresh: 2026-10-12T01:02:40+00:00.*

@@ -1,6 +1,6 @@
 # Possible New Craft Projects — Unreviewed
 
-Discovery scan: **2026-10-12 01:01 UTC**.
+Discovery scan: **2026-10-12 01:02 UTC**.
 
 Automated search for newly created, non-fork, Craft-named repositories with **3+ stars**
 and a relevant description. **These are discovery leads, not recommendations.**
@@ -11,7 +11,6 @@ some projects will be missed. Never run unofficial binaries solely because they 
 
 | Candidate | Stars | Created | Description |
 |---|---:|:---:|---|
-| [PhotocraftAdobe/PhotoCraft-Photoshop](https://github.com/PhotocraftAdobe/PhotoCraft-Photoshop) | 6 | 2026-10-10 | PhotoCraft v0.5.0 is the Rust Photoshop desk: photocraft, artcraft photocraft, github photocraft, photocraft open source photoshop clone. Oct 8 2026. Windows 10/11 x64. Official free download. Local zip. Download:🡇 |
-| [RyanCraighead/SkyCraft](https://github.com/RyanCraighead/SkyCraft) | 4 | 2026-10-01 | Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod). |
+| No new matches in this scan | — | — | — |
 
-*Search returned 47 repositories; 2 matched the descriptive filter.*
+*Search returned 47 repositories; 0 matched the descriptive filter.*
