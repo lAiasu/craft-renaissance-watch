@@ -1,6 +1,6 @@
 # Possible New Craft Projects — Unreviewed
 
-Discovery scan: **2026-10-12 15:17 UTC**.
+Discovery scan: **2026-10-13 14:07 UTC**.
 
 Automated search for newly created, non-fork, Craft-named repositories with **3+ stars**
 and a relevant description. **These are discovery leads, not recommendations.**
@@ -11,6 +11,6 @@ some projects will be missed. Never run unofficial binaries solely because they 
 
 | Candidate | Stars | Created | Description |
 |---|---:|:---:|---|
-| [storytold/craft-launcher-assets](https://github.com/storytold/craft-launcher-assets) | 8 | 2026-10-12 | Pictures ArtCraft Launcher downloads at run time (details-page screenshots) |
+| [storytold/craft-launcher-assets](https://github.com/storytold/craft-launcher-assets) | 18 | 2026-10-12 | Pictures ArtCraft Launcher downloads at run time (details-page screenshots) |
 
-*Search returned 53 repositories; 1 matched the descriptive filter.*
+*Search returned 55 repositories; 1 matched the descriptive filter.*
