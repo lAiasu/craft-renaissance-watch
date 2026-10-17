@@ -1,6 +1,6 @@
 # Possible New Craft Projects — Unreviewed
 
-Discovery scan: **2026-10-16 11:18 UTC**.
+Discovery scan: **2026-10-17 10:39 UTC**.
 
 Automated search for newly created, non-fork, Craft-named repositories with **3+ stars**
 and a relevant description. **These are discovery leads, not recommendations.**
@@ -11,13 +11,11 @@ some projects will be missed. Never run unofficial binaries solely because they 
 
 | Candidate | Stars | Created | Description |
 |---|---:|:---:|---|
-| [storytold/craft-launcher-assets](https://github.com/storytold/craft-launcher-assets) | 31 | 2026-10-12 | Pictures ArtCraft Launcher downloads at run time (details-page screenshots) |
-| [storytold/AniCraft](https://github.com/storytold/AniCraft) | 30 | 2026-10-14 | AniCraft: An open-source 2D animation editor written from scratch in pure Rust. |
+| [storytold/AniCraft](https://github.com/storytold/AniCraft) | 32 | 2026-10-14 | AniCraft: An open-source 2D animation editor written from scratch in pure Rust. |
+| [storytold/craft-launcher-assets](https://github.com/storytold/craft-launcher-assets) | 32 | 2026-10-12 | Pictures ArtCraft Launcher downloads at run time (details-page screenshots) |
+| [storytold/craft-ai-integrations](https://github.com/storytold/craft-ai-integrations) | 19 | 2026-10-11 | Interim AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
 | [areilly111/CraftApps-Android](https://github.com/areilly111/CraftApps-Android) | 6 | 2026-10-10 | Android ports of the storytold craft apps (PhotoCraft, DesignCraft, EffectCraft, PdfCraft, LightCraft, FilmCraft, VectorCraft) with shared updater/stylus/storage code and a launcher app. |
-| [charles-hood/DiagramCraft](https://github.com/charles-hood/DiagramCraft) | 6 | 2026-10-12 | Clean-room, headless Rust core for Microsoft Visio's file format and ShapeSheet, built in the Craft apps' mould |
 | [egsk4/CraftPulse](https://github.com/egsk4/CraftPulse) | 5 | 2026-10-11 | Discord Rich Presence for the ArtCraft creative apps (PhotoCraft, LightCraft and more). Shows your project and what you’re doing. Early development. |
-| [craft-table/getartcraft-website](https://github.com/craft-table/getartcraft-website) | 3 | 2026-10-12 | Static mirror of https://getartcraft.com/apps and related pages |
-| [Jeremy8776/craft-ai-model](https://github.com/Jeremy8776/craft-ai-model) | 3 | 2026-10-11 | Interim AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
-| [wdunn001/collab-craft](https://github.com/wdunn001/collab-craft) | 3 | 2026-10-13 | Cloud documents and shared editing for the Craft apps. OIDC sign-in, pluggable providers, a live-edit relay, and the browser builds. |
+| [craft-table/getartcraft-website](https://github.com/craft-table/getartcraft-website) | 4 | 2026-10-12 | Static mirror of https://getartcraft.com/apps and related pages |
 
-*Search returned 76 repositories; 8 matched the descriptive filter.*
+*Search returned 87 repositories; 6 matched the descriptive filter.*
