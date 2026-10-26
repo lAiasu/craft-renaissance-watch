@@ -55,6 +55,10 @@
     {
       "date": "2026-10-25",
       "stars": 4
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 4
     }
   ],
   "CraftHubLauncher/CraftHub": [
@@ -112,6 +116,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 5
+    },
+    {
+      "date": "2026-10-26",
       "stars": 5
     }
   ],
@@ -171,6 +179,10 @@
     {
       "date": "2026-10-25",
       "stars": 49
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 50
     }
   ],
   "KMSDax/AnimationCraft": [
@@ -235,6 +247,10 @@
     {
       "date": "2026-10-25",
       "stars": 6
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 6
     }
   ],
   "M0uidev/GalaxyCraft": [
@@ -292,6 +308,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 5
+    },
+    {
+      "date": "2026-10-26",
       "stars": 5
     }
   ],
@@ -351,6 +371,10 @@
     {
       "date": "2026-10-25",
       "stars": 6
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 6
     }
   ],
   "PiJellyPin/MaterialCraft": [
@@ -409,6 +433,10 @@
     {
       "date": "2026-10-25",
       "stars": 47
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 48
     }
   ],
   "SocketByte/EldenCraft": [
@@ -467,6 +495,10 @@
     {
       "date": "2026-10-25",
       "stars": 19
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 20
     }
   ],
   "VVRLD/FortressCraft": [
@@ -524,6 +556,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 36
+    },
+    {
+      "date": "2026-10-26",
       "stars": 36
     }
   ],
@@ -583,6 +619,10 @@
     {
       "date": "2026-10-25",
       "stars": 9
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 9
     }
   ],
   "aeironnsarmiento/PeakCraft": [
@@ -640,6 +680,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 3
+    },
+    {
+      "date": "2026-10-26",
       "stars": 3
     }
   ],
@@ -699,6 +743,10 @@
     {
       "date": "2026-10-25",
       "stars": 1260
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 1265
     }
   ],
   "emircesur/CRAFTSPACE": [
@@ -756,6 +804,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 21
+    },
+    {
+      "date": "2026-10-26",
       "stars": 21
     }
   ],
@@ -815,6 +867,10 @@
     {
       "date": "2026-10-25",
       "stars": 5
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 5
     }
   ],
   "kazuhiroU/Craft-App-JapaneseLanguage": [
@@ -872,6 +928,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 3
+    },
+    {
+      "date": "2026-10-26",
       "stars": 3
     }
   ],
@@ -931,6 +991,10 @@
     {
       "date": "2026-10-25",
       "stars": 53
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 54
     }
   ],
   "sogutemir/HalfCraft": [
@@ -988,6 +1052,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 2
+    },
+    {
+      "date": "2026-10-26",
       "stars": 2
     }
   ],
@@ -1047,6 +1115,10 @@
     {
       "date": "2026-10-25",
       "stars": 36429
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 36767
     }
   ],
   "storytold/cadcraft": [
@@ -1105,6 +1177,10 @@
     {
       "date": "2026-10-25",
       "stars": 6741
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 6864
     }
   ],
   "storytold/craft-fonts": [
@@ -1163,6 +1239,10 @@
     {
       "date": "2026-10-25",
       "stars": 393
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 399
     }
   ],
   "storytold/craft-launcher": [
@@ -1221,6 +1301,10 @@
     {
       "date": "2026-10-25",
       "stars": 4014
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 4096
     }
   ],
   "storytold/craft-libs": [
@@ -1279,6 +1363,10 @@
     {
       "date": "2026-10-25",
       "stars": 343
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 350
     }
   ],
   "storytold/craft-repo-status-app": [
@@ -1337,6 +1425,10 @@
     {
       "date": "2026-10-25",
       "stars": 140
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 141
     }
   ],
   "storytold/deckcraft": [
@@ -1395,6 +1487,10 @@
     {
       "date": "2026-10-25",
       "stars": 4231
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 4285
     }
   ],
   "storytold/designcraft": [
@@ -1453,6 +1549,10 @@
     {
       "date": "2026-10-25",
       "stars": 4765
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 4802
     }
   ],
   "storytold/effectcraft": [
@@ -1511,6 +1611,10 @@
     {
       "date": "2026-10-25",
       "stars": 7865
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 7933
     }
   ],
   "storytold/filmcraft": [
@@ -1569,6 +1673,10 @@
     {
       "date": "2026-10-25",
       "stars": 16176
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 16346
     }
   ],
   "storytold/gridcraft": [
@@ -1627,6 +1735,10 @@
     {
       "date": "2026-10-25",
       "stars": 6463
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 6548
     }
   ],
   "storytold/lightcraft": [
@@ -1685,6 +1797,10 @@
     {
       "date": "2026-10-25",
       "stars": 14591
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 14700
     }
   ],
   "storytold/pdfcraft": [
@@ -1743,6 +1859,10 @@
     {
       "date": "2026-10-25",
       "stars": 17715
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 17943
     }
   ],
   "storytold/photocraft": [
@@ -1801,6 +1921,10 @@
     {
       "date": "2026-10-25",
       "stars": 72588
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 73138
     }
   ],
   "storytold/soundcraft": [
@@ -1859,6 +1983,10 @@
     {
       "date": "2026-10-25",
       "stars": 3728
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 3778
     }
   ],
   "storytold/vectorcraft": [
@@ -1917,6 +2045,10 @@
     {
       "date": "2026-10-25",
       "stars": 10639
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 10726
     }
   ],
   "storytold/wordcraft": [
@@ -1975,6 +2107,10 @@
     {
       "date": "2026-10-25",
       "stars": 15957
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 16141
     }
   ],
   "zeyvu/FalloutCraft": [
@@ -2032,6 +2168,10 @@
     },
     {
       "date": "2026-10-25",
+      "stars": 11
+    },
+    {
+      "date": "2026-10-26",
       "stars": 11
     }
   ]
