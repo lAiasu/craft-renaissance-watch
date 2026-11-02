@@ -1,6 +1,6 @@
 # Possible New Craft Projects — Unreviewed
 
-Discovery scan: **2026-11-01 13:16 UTC**.
+Discovery scan: **2026-11-02 15:43 UTC**.
 
 Automated search for newly created, non-fork, Craft-named repositories with **3+ stars**
 and a relevant description. **These are discovery leads, not recommendations.**
@@ -11,14 +11,12 @@ some projects will be missed. Never run unofficial binaries solely because they 
 
 | Candidate | Stars | Created | Description |
 |---|---:|:---:|---|
-| [storytold/craft-ai-integrations](https://github.com/storytold/craft-ai-integrations) | 125 | 2026-10-11 | AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
-| [storytold/craft-launcher-assets](https://github.com/storytold/craft-launcher-assets) | 52 | 2026-10-12 | Pictures ArtCraft Launcher downloads at run time (details-page screenshots) |
-| [overprivileged/craft-watch](https://github.com/overprivileged/craft-watch) | 41 | 2026-10-23 | Public GitHub activity of the ArtCraft apps. Signals, not a guarantee. |
-| [storytold/craft-i18n](https://github.com/storytold/craft-i18n) | 19 | 2026-10-16 | Shared translations for the storytold Crafting Apps: TSV catalogs and the CI that checks them |
-| [baradhili/DiagramCraft](https://github.com/baradhili/DiagramCraft) | 8 | 2026-10-20 | "ArtCraft" style clone of VIsio |
-| [egsk4/CraftPulse](https://github.com/egsk4/CraftPulse) | 7 | 2026-10-11 | Discord Rich Presence for the ArtCraft creative apps (PhotoCraft, LightCraft and more). Shows your project and what you’re doing. Early development. |
-| [storytold/craft-skills](https://github.com/storytold/craft-skills) | 4 | 2026-10-30 | Corpus of shared skills used in agentic development of craft apps |
+| [storytold/craft-ai-integrations](https://github.com/storytold/craft-ai-integrations) | 126 | 2026-10-11 | AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
+| [overprivileged/craft-watch](https://github.com/overprivileged/craft-watch) | 43 | 2026-10-23 | Public GitHub activity of the ArtCraft apps. Signals, not a guarantee. |
+| [storytold/craft-i18n](https://github.com/storytold/craft-i18n) | 22 | 2026-10-16 | Shared translations for the storytold Crafting Apps: TSV catalogs and the CI that checks them |
+| [baradhili/DiagramCraft](https://github.com/baradhili/DiagramCraft) | 10 | 2026-10-20 | "ArtCraft" style clone of VIsio |
+| [storytold/craft-skills](https://github.com/storytold/craft-skills) | 5 | 2026-10-30 | Corpus of shared skills used in agentic development of craft apps |
 | [wdunn001/collab-craft](https://github.com/wdunn001/collab-craft) | 3 | 2026-10-13 | Cloud documents and shared editing for the Craft apps. OIDC sign-in, pluggable providers, a live-edit relay, and the browser builds. |
 | [YalKouassi/craft-unofficial-launcher](https://github.com/YalKouassi/craft-unofficial-launcher) | 3 | 2026-10-30 | Install and update unofficial Craft-style apps that describe themselves with craft-app.json (independent fork of ArtCraft Launcher, not affiliated) |
 
-*Search returned 100 repositories; 9 matched the descriptive filter.*
+*Search returned 100 repositories; 7 matched the descriptive filter.*

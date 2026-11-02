@@ -83,6 +83,10 @@
     {
       "date": "2026-11-01",
       "stars": 4
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 4
     }
   ],
   "CraftHubLauncher/CraftHub": [
@@ -169,6 +173,10 @@
     {
       "date": "2026-11-01",
       "stars": 5
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 5
     }
   ],
   "CryptoKey98/craft-apps-manager": [
@@ -254,6 +262,10 @@
     },
     {
       "date": "2026-11-01",
+      "stars": 50
+    },
+    {
+      "date": "2026-11-02",
       "stars": 50
     }
   ],
@@ -347,6 +359,10 @@
     {
       "date": "2026-11-01",
       "stars": 6
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 6
     }
   ],
   "M0uidev/GalaxyCraft": [
@@ -433,6 +449,10 @@
     {
       "date": "2026-11-01",
       "stars": 5
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 7
     }
   ],
   "MegaTheLEGEND/CraftHub": [
@@ -519,6 +539,10 @@
     {
       "date": "2026-11-01",
       "stars": 9
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 10
     }
   ],
   "PiJellyPin/MaterialCraft": [
@@ -605,6 +629,10 @@
     {
       "date": "2026-11-01",
       "stars": 62
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 65
     }
   ],
   "SocketByte/EldenCraft": [
@@ -690,6 +718,10 @@
     },
     {
       "date": "2026-11-01",
+      "stars": 22
+    },
+    {
+      "date": "2026-11-02",
       "stars": 22
     }
   ],
@@ -777,6 +809,10 @@
     {
       "date": "2026-11-01",
       "stars": 38
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 39
     }
   ],
   "Xu060113/SekiroCraft-Passthrough": [
@@ -862,6 +898,10 @@
     },
     {
       "date": "2026-11-01",
+      "stars": 9
+    },
+    {
+      "date": "2026-11-02",
       "stars": 9
     }
   ],
@@ -949,6 +989,10 @@
     {
       "date": "2026-11-01",
       "stars": 3
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 3
     }
   ],
   "chasmlol/SkyCraft": [
@@ -1034,6 +1078,10 @@
     },
     {
       "date": "2026-11-01",
+      "stars": 1276
+    },
+    {
+      "date": "2026-11-02",
       "stars": 1276
     }
   ],
@@ -1121,6 +1169,10 @@
     {
       "date": "2026-11-01",
       "stars": 21
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 21
     }
   ],
   "gta5craft/GtaCraft": [
@@ -1206,6 +1258,10 @@
     },
     {
       "date": "2026-11-01",
+      "stars": 5
+    },
+    {
+      "date": "2026-11-02",
       "stars": 5
     }
   ],
@@ -1293,6 +1349,10 @@
     {
       "date": "2026-11-01",
       "stars": 3
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 3
     }
   ],
   "olafkfreund/nix-craftapps": [
@@ -1379,6 +1439,10 @@
     {
       "date": "2026-11-01",
       "stars": 58
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 60
     }
   ],
   "sogutemir/HalfCraft": [
@@ -1464,6 +1528,10 @@
     },
     {
       "date": "2026-11-01",
+      "stars": 2
+    },
+    {
+      "date": "2026-11-02",
       "stars": 2
     }
   ],
@@ -1551,6 +1619,10 @@
     {
       "date": "2026-11-01",
       "stars": 38087
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 38324
     }
   ],
   "storytold/cadcraft": [
@@ -1637,6 +1709,10 @@
     {
       "date": "2026-11-01",
       "stars": 7358
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 7463
     }
   ],
   "storytold/craft-fonts": [
@@ -1723,6 +1799,10 @@
     {
       "date": "2026-11-01",
       "stars": 414
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 416
     }
   ],
   "storytold/craft-launcher": [
@@ -1809,6 +1889,10 @@
     {
       "date": "2026-11-01",
       "stars": 4574
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 4768
     }
   ],
   "storytold/craft-libs": [
@@ -1895,6 +1979,10 @@
     {
       "date": "2026-11-01",
       "stars": 377
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 380
     }
   ],
   "storytold/craft-repo-status-app": [
@@ -1981,6 +2069,10 @@
     {
       "date": "2026-11-01",
       "stars": 142
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 143
     }
   ],
   "storytold/deckcraft": [
@@ -2067,6 +2159,10 @@
     {
       "date": "2026-11-01",
       "stars": 4486
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 4523
     }
   ],
   "storytold/designcraft": [
@@ -2153,6 +2249,10 @@
     {
       "date": "2026-11-01",
       "stars": 4999
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 5029
     }
   ],
   "storytold/effectcraft": [
@@ -2239,6 +2339,10 @@
     {
       "date": "2026-11-01",
       "stars": 8288
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 8329
     }
   ],
   "storytold/filmcraft": [
@@ -2325,6 +2429,10 @@
     {
       "date": "2026-11-01",
       "stars": 17145
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 17279
     }
   ],
   "storytold/gridcraft": [
@@ -2411,6 +2519,10 @@
     {
       "date": "2026-11-01",
       "stars": 6966
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 7015
     }
   ],
   "storytold/lightcraft": [
@@ -2497,6 +2609,10 @@
     {
       "date": "2026-11-01",
       "stars": 15219
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 15302
     }
   ],
   "storytold/pdfcraft": [
@@ -2583,6 +2699,10 @@
     {
       "date": "2026-11-01",
       "stars": 19007
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 19187
     }
   ],
   "storytold/photocraft": [
@@ -2669,6 +2789,10 @@
     {
       "date": "2026-11-01",
       "stars": 75723
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 76110
     }
   ],
   "storytold/soundcraft": [
@@ -2755,6 +2879,10 @@
     {
       "date": "2026-11-01",
       "stars": 3961
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 4007
     }
   ],
   "storytold/vectorcraft": [
@@ -2841,6 +2969,10 @@
     {
       "date": "2026-11-01",
       "stars": 11158
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 11219
     }
   ],
   "storytold/wordcraft": [
@@ -2927,6 +3059,10 @@
     {
       "date": "2026-11-01",
       "stars": 16905
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 17016
     }
   ],
   "zeyvu/FalloutCraft": [
@@ -3012,6 +3148,10 @@
     },
     {
       "date": "2026-11-01",
+      "stars": 11
+    },
+    {
+      "date": "2026-11-02",
       "stars": 11
     }
   ]
