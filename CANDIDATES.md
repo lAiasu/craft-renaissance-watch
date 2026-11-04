@@ -1,6 +1,6 @@
 # Possible New Craft Projects — Unreviewed
 
-Discovery scan: **2026-11-03 14:07 UTC**.
+Discovery scan: **2026-11-04 14:27 UTC**.
 
 Automated search for newly created, non-fork, Craft-named repositories with **3+ stars**
 and a relevant description. **These are discovery leads, not recommendations.**
@@ -11,12 +11,13 @@ some projects will be missed. Never run unofficial binaries solely because they 
 
 | Candidate | Stars | Created | Description |
 |---|---:|:---:|---|
-| [storytold/craft-ai-integrations](https://github.com/storytold/craft-ai-integrations) | 130 | 2026-10-11 | AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
-| [overprivileged/craft-watch](https://github.com/overprivileged/craft-watch) | 47 | 2026-10-23 | Public GitHub activity of the ArtCraft apps. Signals, not a guarantee. |
-| [storytold/craft-i18n](https://github.com/storytold/craft-i18n) | 22 | 2026-10-16 | Shared translations for the storytold Crafting Apps: TSV catalogs and the CI that checks them |
+| [storytold/craft-ai-integrations](https://github.com/storytold/craft-ai-integrations) | 136 | 2026-10-11 | AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
+| [overprivileged/craft-watch](https://github.com/overprivileged/craft-watch) | 48 | 2026-10-23 | Public GitHub activity of the ArtCraft apps. Signals, not a guarantee. |
+| [storytold/craft-i18n](https://github.com/storytold/craft-i18n) | 25 | 2026-10-16 | Shared translations for the storytold Crafting Apps: TSV catalogs and the CI that checks them |
 | [baradhili/DiagramCraft](https://github.com/baradhili/DiagramCraft) | 10 | 2026-10-20 | "ArtCraft" style clone of VIsio |
-| [storytold/craft-skills](https://github.com/storytold/craft-skills) | 7 | 2026-10-30 | Corpus of shared skills used in agentic development of craft apps |
-| [wdunn001/collab-craft](https://github.com/wdunn001/collab-craft) | 3 | 2026-10-13 | Cloud documents and shared editing for the Craft apps. OIDC sign-in, pluggable providers, a live-edit relay, and the browser builds. |
-| [YalKouassi/craft-unofficial-launcher](https://github.com/YalKouassi/craft-unofficial-launcher) | 3 | 2026-10-30 | Install and update unofficial Craft-style apps that describe themselves with craft-app.json (independent fork of ArtCraft Launcher, not affiliated) |
+| [storytold/craft-skills](https://github.com/storytold/craft-skills) | 10 | 2026-10-30 | Corpus of shared skills used in agentic development of craft apps |
+| [storytold/craft-pr-review-tool](https://github.com/storytold/craft-pr-review-tool) | 4 | 2026-11-01 | A PR review tool for the craft apps and libraries |
+| [wdunn001/collab-craft](https://github.com/wdunn001/collab-craft) | 4 | 2026-10-13 | Cloud documents and shared editing for the Craft apps. OIDC sign-in, pluggable providers, a live-edit relay, and the browser builds. |
+| [YalKouassi/craft-unofficial-launcher](https://github.com/YalKouassi/craft-unofficial-launcher) | 4 | 2026-10-30 | Install and update unofficial Craft-style apps that describe themselves with craft-app.json (independent fork of ArtCraft Launcher, not affiliated) |
 
-*Search returned 100 repositories; 7 matched the descriptive filter.*
+*Search returned 100 repositories; 8 matched the descriptive filter.*
