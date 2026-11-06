@@ -1,0 +1,61 @@
+# T3 Code deliberately ignores remarks authored by its own GitHub account.
+# Translate a formal Request changes review into a failing commit status on the
+# bot-created PR, so T3's existing watch_pull_request detects it as a failed
+# check and can wake the implementation thread. No PR comments are created.
+name: Surface review verdict to T3 Code
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+permissions:
+  contents: read
+  pull-requests: read
+  statuses: write
+
+concurrency:
+  group: review-verdict-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  verdict:
+    if: >-
+      github.event.pull_request.user.login == 'github-actions[bot]' &&
+      (github.event.review.state == 'changes_requested' ||
+       github.event.review.state == 'approved')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish review verdict as a commit status
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          VERDICT: ${{ github.event.review.state }}
+          REVIEW_URL: ${{ github.event.review.html_url }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          status() {
+            local context="$1" state="$2"
+            gh api --method POST "repos/$GH_REPO/statuses/$HEAD_SHA" \
+              -f "state=$state" -f "context=$context" \
+              -f "description=Latest formal PR review: $VERDICT" \
+              -f "target_url=$REVIEW_URL" >/dev/null
+          }
+
+          # T3 notices a newly failed check name. Alternate two fixed context
+          # names for subsequent requests (no unlimited new check names).
+          current_a="$(gh api "repos/$GH_REPO/commits/$HEAD_SHA/status" \
+            --jq '.statuses | map(select(.context == "review-feedback/a")) | .[0].state // ""')"
+
+          if [ "$VERDICT" = approved ]; then
+            status "review-feedback/a" success
+            status "review-feedback/b" success
+          elif [ "$current_a" = failure ]; then
+            status "review-feedback/a" success
+            status "review-feedback/b" failure
+          else
+            status "review-feedback/b" success
+            status "review-feedback/a" failure
+          fi
