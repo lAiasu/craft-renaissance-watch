@@ -1,0 +1,52 @@
+# A branch becomes review-ready only when its author pushes it under ready/.
+# T3 Code can discover/link the resulting PR by branch. This workflow does not
+# change commits, push source code, run tests, or mark anything approved.
+name: Open PR for ready branches
+
+on:
+  push:
+    branches:
+      - 'ready/**'
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Already-pushed branch under ready/ to open a PR for'
+        required: true
+        type: string
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: ready-pr-${{ github.event_name == 'workflow_dispatch' && inputs.branch || github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  open-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open PR only if none already exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          BRANCH: ${{ github.event_name == 'workflow_dispatch' && inputs.branch || github.ref_name }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$BRANCH" in
+            ready/*) ;;
+            *) echo "::error::Only ready/* branches are eligible"; exit 1 ;;
+          esac
+
+          existing="$(gh pr list --repo "$GH_REPO" --state all --head "$BRANCH" --base main --json number --jq '.[0].number // empty')"
+          if [ -n "$existing" ]; then
+            echo "Pull request #$existing already exists for $BRANCH; nothing to do."
+            exit 0
+          fi
+
+          title="${BRANCH#ready/}"
+          title="${title//[-_]/ }"
+          gh pr create --repo "$GH_REPO" --base main --head "$BRANCH" \
+            --title "Review: $title" \
+            --body "Opened automatically from the ready branch. Use the linked T3 Code thread to follow checks and respond to reviews."
