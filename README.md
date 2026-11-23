@@ -1,6 +1,6 @@
 # Craft Renaissance — GitHub Watchlist
 
-**36 curated projects · 6 categories · Updated 2026-11-22 14:30 UTC**
+**36 curated projects · 6 categories · Updated 2026-11-23 17:59 UTC**
 
 A private, categorized tracker for the sudden wave of *-Craft applications and adjacent experiments.
 This list **does not star, fork or subscribe to** any of the tracked repositories.
@@ -30,33 +30,33 @@ not proof of feature completeness or code quality.
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [photocraft](https://github.com/storytold/photocraft) | Photoshop-style raster editor | High | 80,977 | +1453 | 2026-11-22 | Track PSD fidelity, selections, masks and editor stability |
-| [pdfcraft](https://github.com/storytold/pdfcraft) | Acrobat-style PDF editor | High | 21,447 | +671 | 2026-11-22 | Track PDF fidelity, forms, annotations and export |
-| [filmcraft](https://github.com/storytold/filmcraft) | Premiere-style nonlinear video editor | High | 18,821 | +493 | 2026-11-22 | Track timeline, codecs, effects and export reliability |
-| [lightcraft](https://github.com/storytold/lightcraft) | Lightroom-style photo workflow | High | 16,283 | +272 | 2026-11-22 | Track RAW compatibility and non-destructive editing |
-| [vectorcraft](https://github.com/storytold/vectorcraft) | Illustrator-style vector editor | High | 12,011 | +248 | 2026-11-22 | Track SVG/AI workflows, vector drawing and typography |
-| [effectcraft](https://github.com/storytold/effectcraft) | After Effects-style motion graphics | High | 9,115 | +303 | 2026-11-22 | Track keyframes, compositing and media interchange |
-| [designcraft](https://github.com/storytold/designcraft) | InDesign-style publishing | High | 5,362 | +74 | 2026-11-22 | Track typography, layout, prepress and file fidelity |
+| [photocraft](https://github.com/storytold/photocraft) | Photoshop-style raster editor | High | 81,149 | +1388 | 2026-11-23 | Track PSD fidelity, selections, masks and editor stability |
+| [pdfcraft](https://github.com/storytold/pdfcraft) | Acrobat-style PDF editor | High | 21,562 | +688 | 2026-11-23 | Track PDF fidelity, forms, annotations and export |
+| [filmcraft](https://github.com/storytold/filmcraft) | Premiere-style nonlinear video editor | High | 18,903 | +504 | 2026-11-23 | Track timeline, codecs, effects and export reliability |
+| [lightcraft](https://github.com/storytold/lightcraft) | Lightroom-style photo workflow | High | 16,338 | +273 | 2026-11-23 | Track RAW compatibility and non-destructive editing |
+| [vectorcraft](https://github.com/storytold/vectorcraft) | Illustrator-style vector editor | High | 12,037 | +231 | 2026-11-23 | Track SVG/AI workflows, vector drawing and typography |
+| [effectcraft](https://github.com/storytold/effectcraft) | After Effects-style motion graphics | High | 9,160 | +298 | 2026-11-23 | Track keyframes, compositing and media interchange |
+| [designcraft](https://github.com/storytold/designcraft) | InDesign-style publishing | High | 5,379 | +79 | 2026-11-23 | Track typography, layout, prepress and file fidelity |
 
 ## Office, CAD and audio
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [wordcraft](https://github.com/storytold/wordcraft) | Microsoft Word-style word processor | High | 18,414 | +361 | 2026-11-22 | Track complex DOCX round trips, pagination and printing |
-| [cadcraft](https://github.com/storytold/cadcraft) | AutoCAD-style drafting application | High | 8,373 | +264 | 2026-11-22 | Track DWG/DXF conversion, geometry and dimension accuracy |
-| [gridcraft](https://github.com/storytold/gridcraft) | Microsoft Excel-style spreadsheet | High | 7,747 | +189 | 2026-11-22 | Track formulas, XLSX round trips and large-sheet performance |
-| [deckcraft](https://github.com/storytold/deckcraft) | Microsoft PowerPoint-style presentations | High | 4,929 | +123 | 2026-11-22 | Track PPTX interoperability, animations and rendering |
-| [soundcraft](https://github.com/storytold/soundcraft) | Avid Pro Tools-style audio workstation | High | 4,514 | +148 | 2026-11-22 | Track low-latency audio, plugins, session import and DAW stability |
+| [wordcraft](https://github.com/storytold/wordcraft) | Microsoft Word-style word processor | High | 18,474 | +353 | 2026-11-23 | Track complex DOCX round trips, pagination and printing |
+| [cadcraft](https://github.com/storytold/cadcraft) | AutoCAD-style drafting application | High | 8,417 | +263 | 2026-11-23 | Track DWG/DXF conversion, geometry and dimension accuracy |
+| [gridcraft](https://github.com/storytold/gridcraft) | Microsoft Excel-style spreadsheet | High | 7,772 | +177 | 2026-11-23 | Track formulas, XLSX round trips and large-sheet performance |
+| [deckcraft](https://github.com/storytold/deckcraft) | Microsoft PowerPoint-style presentations | High | 4,944 | +119 | 2026-11-23 | Track PPTX interoperability, animations and rendering |
+| [soundcraft](https://github.com/storytold/soundcraft) | Avid Pro Tools-style audio workstation | High | 4,537 | +140 | 2026-11-23 | Track low-latency audio, plugins, session import and DAW stability |
 
 ## Core project and infrastructure
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [artcraft](https://github.com/storytold/artcraft) | ArtCraft creative AI studio | High | 41,952 | +857 | 2026-11-20 | Original umbrella project predates the October app surge |
-| [craft-launcher](https://github.com/storytold/craft-launcher) | Official desktop application launcher | High | 5,571 | +202 | 2026-11-22 | Simplifies native installs and updates across the suite |
-| [craft-libs](https://github.com/storytold/craft-libs) | Shared Rust libraries | Medium | 486 | +59 | 2026-11-22 | Interesting for cross-app architecture and deduplication |
-| [craft-repo-status-app](https://github.com/storytold/craft-repo-status-app) | Release and repository status app | Medium | 154 | +2 | 2026-11-15 | Potential unified status across Craft applications |
-| [craft-fonts](https://github.com/storytold/craft-fonts) | Shared bundled fonts | Low | 442 | +10 | 2026-11-20 | Supporting repository for portability and typography |
+| [artcraft](https://github.com/storytold/artcraft) | ArtCraft creative AI studio | High | 42,070 | +852 | 2026-11-23 | Original umbrella project predates the October app surge |
+| [craft-launcher](https://github.com/storytold/craft-launcher) | Official desktop application launcher | High | 5,611 | +198 | 2026-11-23 | Simplifies native installs and updates across the suite |
+| [craft-libs](https://github.com/storytold/craft-libs) | Shared Rust libraries | Medium | 512 | +78 | 2026-11-23 | Interesting for cross-app architecture and deduplication |
+| [craft-repo-status-app](https://github.com/storytold/craft-repo-status-app) | Release and repository status app | Medium | 154 | +0 | 2026-11-15 | Potential unified status across Craft applications |
+| [craft-fonts](https://github.com/storytold/craft-fonts) | Shared bundled fonts | Low | 442 | +5 | 2026-11-23 | Supporting repository for portability and typography |
 
 ## Independent creative experiments
 
@@ -69,9 +69,9 @@ not proof of feature completeness or code quality.
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [craft-apps-manager](https://github.com/CryptoKey98/craft-apps-manager) | Third-party native app manager | Medium | 50 | -1 | 2026-11-22 | Actively maintained installer, updater, backups and build-from-source |
+| [craft-apps-manager](https://github.com/CryptoKey98/craft-apps-manager) | Third-party native app manager | Medium | 50 | -1 | 2026-11-23 | Actively maintained installer, updater, backups and build-from-source |
 | [CRAFTSPACE](https://github.com/emircesur/CRAFTSPACE) | Third-party installer and updater | Medium | 22 | +1 | 2026-10-15 | Independent desktop manager for the ArtCraft family |
-| [nix-craftapps](https://github.com/olafkfreund/nix-craftapps) | NixOS/Home Manager packaging | Low | 69 | +4 | 2026-11-16 | Practical deployment route for Nix users |
+| [nix-craftapps](https://github.com/olafkfreund/nix-craftapps) | NixOS/Home Manager packaging | Low | 69 | +2 | 2026-11-23 | Practical deployment route for Nix users |
 | [CraftHub](https://github.com/MegaTheLEGEND/CraftHub) | Self-hosted Craft web launcher | Low | 11 | +1 | 2026-11-03 | Serves web builds with optional OIDC authentication |
 | [CraftHub](https://github.com/CraftHubLauncher/CraftHub) | Community desktop app hub | Low | 5 | +0 | 2026-10-09 | Alternative Craft app installation and management |
 | [Craft-App-JapaneseLanguage](https://github.com/kazuhiroU/Craft-App-JapaneseLanguage) | Japanese localization toolkit | Low | 3 | +0 | 2026-10-09 | Translation dictionaries, patches and localized usage guidance |
@@ -80,8 +80,8 @@ not proof of feature completeness or code quality.
 
 | Repository | What it is | Priority | Stars | 7d stars | Last push | Why track |
 |---|---|:---:|---:|---:|:---:|---|
-| [SkyCraft](https://github.com/chasmlol/SkyCraft) | Minecraft gameplay inside Skyrim | High | 1,285 | +4 | 2026-10-01 | Original ambitious SKSE/Fabric shared-memory crossover; not an ArtCraft app |
-| [FortressCraft](https://github.com/VVRLD/FortressCraft) | Team Fortress 2 and Minecraft crossover | Medium | 45 | +2 | 2026-10-22 | Source-based experimental passthrough; needs independent testing |
+| [SkyCraft](https://github.com/chasmlol/SkyCraft) | Minecraft gameplay inside Skyrim | High | 1,286 | +6 | 2026-10-01 | Original ambitious SKSE/Fabric shared-memory crossover; not an ArtCraft app |
+| [FortressCraft](https://github.com/VVRLD/FortressCraft) | Team Fortress 2 and Minecraft crossover | Medium | 45 | +1 | 2026-10-22 | Source-based experimental passthrough; needs independent testing |
 | [FalloutCraft](https://github.com/zeyvu/FalloutCraft) | Minecraft gameplay inside Fallout 4 | Medium | 12 | +0 | 2026-10-04 | Fallout 4/Fabric world and combat integration |
 | [SekiroCraft-Passthrough](https://github.com/Xu060113/SekiroCraft-Passthrough) | Sekiro and Minecraft integration | Medium | 10 | +0 | 2026-10-11 | Experimental D3D11/shared-memory bridge, Windows only |
 | [GtaCraft](https://github.com/gta5craft/GtaCraft) | Minecraft gameplay inside GTA V | Medium | 5 | +0 | 2026-10-13 | Single-player GTA V Legacy/Fabric bridge |
@@ -102,7 +102,7 @@ not proof of feature completeness or code quality.
 For additional searching, see [recent original Craft-named repositories](https://github.com/search?q=craft+in%3Aname+created%3A%3E%3D2026-09-29+fork%3Afalse&type=repositories).
 A private repository README is available only when signed in to the GitHub account with access.
 
-*Last refresh: 2026-11-22T14:30:04+00:00.*
+*Last refresh: 2026-11-23T17:59:39+00:00.*
 
 ### Refresh warnings
 
