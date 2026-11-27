@@ -1,6 +1,6 @@
 # Possible New Craft Projects — Unreviewed
 
-Discovery scan: **2026-11-26 16:50 UTC**.
+Discovery scan: **2026-11-27 16:35 UTC**.
 
 Automated search for newly created, non-fork, Craft-named repositories with **3+ stars**
 and a relevant description. **These are discovery leads, not recommendations.**
@@ -11,7 +11,7 @@ some projects will be missed. Never run unofficial binaries solely because they 
 
 | Candidate | Stars | Created | Description |
 |---|---:|:---:|---|
-| [storytold/craft-ai-integrations](https://github.com/storytold/craft-ai-integrations) | 182 | 2026-10-11 | AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
+| [storytold/craft-ai-integrations](https://github.com/storytold/craft-ai-integrations) | 183 | 2026-10-11 | AI layer for the Craft apps: connections, keys, providers, client, egui widgets (first draft) |
 | [storytold/craft-launcher-assets](https://github.com/storytold/craft-launcher-assets) | 55 | 2026-10-12 | Pictures ArtCraft Launcher downloads at run time (details-page screenshots) |
 | [overprivileged/craft-watch](https://github.com/overprivileged/craft-watch) | 50 | 2026-10-23 | Public GitHub activity of the ArtCraft apps. Signals, not a guarantee. |
 | [storytold/craft-i18n](https://github.com/storytold/craft-i18n) | 50 | 2026-10-16 | Shared translations for the storytold Crafting Apps: TSV catalogs and the CI that checks them |
